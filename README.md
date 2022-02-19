@@ -1,1 +1,1 @@
-# escape8
+Hey viewers its Yash Uddhav Mahadeshvar here this is my game names as Escape Galaxy for several reasons its a offline game which is related to a well known game in 2014 named as Space Chicken which was a rapidely developing game that days my teachers suggested me to make such game as a beginers project but not its in the stage of development . dont worry the further version of this game will be systematicaly uploaded to you guys. Enjoy the game and Live Your Life With A Purpose.

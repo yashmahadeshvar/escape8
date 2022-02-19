@@ -1,0 +1,9 @@
+Escape Galaxy:
+1.start level- instruction for the game
+2.level 1- avoid aliens,and meteors,and collect boost
+3.level 2-fight with UFO
+4.level 3=fight with the "boss"
+5.end level -astronaut reaching earth
+
+*collect images of the game
+
